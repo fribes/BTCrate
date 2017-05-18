@@ -1,0 +1,11 @@
+{
+  "name": "rate",
+  "version": "1.0.0",
+  "description": "retrieve BTC rate from coinbase",
+  "main": "rate.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Fabien RIBES",
+  "license": "ISC"
+}
