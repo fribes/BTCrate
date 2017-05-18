@@ -2,7 +2,7 @@
   "name": "rate",
   "version": "1.0.0",
   "description": "retrieve BTC rate from coinbase",
-  "main": "rate.js",
+  "main": "BTCrate.js",
   "scripts": {
     "test": "test"
   },
