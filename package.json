@@ -7,5 +7,8 @@
     "test": "test"
   },
   "author": "Fabien RIBES",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
 }
